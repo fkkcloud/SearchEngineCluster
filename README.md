@@ -7,6 +7,7 @@ Java for model, Processing for view and controller
 *Dependency*
 jsoup, gson
 
+https://sites.google.com/site/semanticdatas/data-interactive-art/search-engine-expandable
 
 I was thinking of google search as one of the most high-end artificial intelligence that 
 most of people interact with everyday.
